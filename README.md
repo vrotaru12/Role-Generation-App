@@ -16,7 +16,21 @@ Check the install by opening command line and running the following command:
 node -v
 ```
 This command will return version of your 'node js' installed if the install was successful and 'node command not found' if 'node js' install has failed on your computer.
+Once `node` is installed on your computer run the following command :
+```
+npm install
+```
+### Archiver 
+Archiver is a streaming interface for archive generation and it needs to be installed :
+```
+npm install archiver --save
 
+```
+### xml2js
+Simple XML to JavaScript object converter. It supports bi-directional conversion. 
+```
+npm install xml2js
+```
 ## Usage
 1. Go in `config/roles` directory and for each `@ROLE GROUP` from workbook create a `.js` file that will contain the list of roles with the acronym at the end.
 
