@@ -1,0 +1,6 @@
+let roles = [
+    "FBS_ISSUE_RISK_ST1","FBS_ISSUE_RISK_GMP","FBS_ISSUE_RISK_GCP","FBS_ISSUE_RISK_GLP","FBS_ISSUE_RISK_GxPIT"
+
+]
+
+module.exports = roles
