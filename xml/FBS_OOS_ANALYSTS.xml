@@ -1,0 +1,20 @@
+<role description="CORP OOS/OOT Analysts">
+     <enterprise id="corporate" />
+
+     <!-- Portal Rights-->
+     <right id="0000000000INFOCARD" />
+     <right id="0000000000MYRECENT" />
+
+     <!-- Process Rights-->
+     <right id="000000FORMAPPROVAL" />
+     <right id="00000STARTFORMTASK" />
+     <right id="00000FORMSTRACKING" />
+
+     <!-- Vault Rights-->
+     <vault id="OOS-OOT Forms Open">
+          <right id="000000FINDINFOCARD" />
+          <right id="00000000VIEWNATIVE" />
+          <right id="00000000000VIEWPDF" />
+     </vault>
+
+</role>

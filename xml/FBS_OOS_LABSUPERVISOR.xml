@@ -1,0 +1,42 @@
+<role description="CORP OOS/OOT Lab Supervisor">
+     <enterprise id="corporate" />
+
+     <!-- Portal Rights-->
+     <right id="0000000000INFOCARD" />
+     <right id="0000000000MYRECENT" />
+     <right id="0000000000AUDITLOG" />
+     <right id="00000EXTERNALLINKS" />
+     <right id="00000CUSTOMREPORTS" />
+     <right id="000000PORTALSEARCH" />
+     <right id="00000PORTALREPORTS" />
+     <right id="00SCHEDULEDREPORTS" />
+
+     <!-- Process Rights-->
+     <right id="00000EVENTANALYZER" />
+     <right id="000000FORMAPPROVAL" />
+     <right id="0000000FORMREPORTS" />
+     <right id="0000000000000FORMS" />
+     <right id="00000STARTFORMTASK" />
+     <right id="0000TEMPLATEREPORT" />
+     <right id="00000FORMSTRACKING" />
+
+     <!-- Vault Rights-->
+     <vault id="OOS-OOT Forms Open">
+          <right id="000000FINDINFOCARD" />
+          <right id="00000000VIEWNATIVE" />
+          <right id="00000000000VIEWPDF" />
+     </vault>
+
+     <vault id="OOS-OOT Forms Closed">
+          <right id="000000FINDINFOCARD" />
+          <right id="00000000VIEWNATIVE" />
+          <right id="00000000000VIEWPDF" />
+     </vault>
+
+     <vault id="OOS-OOT Forms Archive">
+          <right id="000000FINDINFOCARD" />
+          <right id="00000000VIEWNATIVE" />
+          <right id="00000000000VIEWPDF" />
+     </vault>
+
+</role>
