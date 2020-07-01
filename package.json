@@ -1,0 +1,20 @@
+{
+  "name": "xml2json",
+  "version": "1.0.0",
+  "description": "Role Generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victoria Rotaru",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^4.0.1",
+    "ffmetadata": "^1.6.0",
+    "fs-extra": "^7.0.1",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
