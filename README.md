@@ -2,7 +2,7 @@
 
 ## Description
 
-Role Generator Utility is a tool that generates roles defined in xml files and exports them as zip, ready to be installed into specfic environments. This tool also checks if there are not similar IDS of the file names after converting them into 18 characters IDS.The purpose of this tool is to generate dinamically multiple roles with different names but with common fragment of the name for all of them. 
+Role Generator Utility is a tool that generates roles defined in xml files and exports them as zip, ready to be installed into specfic environments. This tool also checks if there are not similar IDS of the file names after converting them into 18 characters IDS. The purpose of this app is to generate dinamically multiple roles with different names but with common fragment of the name for all of them. 
 
 ## Installing Dependencies
 
